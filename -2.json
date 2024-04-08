@@ -1,0 +1,1 @@
+{"id":-2,"name":"本地订阅","version":0,"author":"gkd","globalGroups":[],"categories":[],"apps":[{"id":"com.cainiao.wireless","name":"菜鸟","groups":[{"key":1,"name":"菜鸟-1","rules":[{"key":0,"matches":["[(text*=\"已拒绝地理位置授权\"||desc*=\"已拒绝地理位置授权\"||id*=\"已拒绝地理位置授权\")]","[(text*=\"我知道了\"||desc*=\"我知道了\"||id*=\"我知道了\")]"]}]}]}]}
